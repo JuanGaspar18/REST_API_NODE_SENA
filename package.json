@@ -1,0 +1,24 @@
+{
+  "name": "rest_api_node_sena",
+  "version": "1.0.0",
+  "description": "Api's servicio web",
+  "homepage": "https://github.com/JuanGaspar18/REST_API_NODE_SENA#readme",
+  "bugs": {
+    "url": "https://github.com/JuanGaspar18/REST_API_NODE_SENA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanGaspar18/REST_API_NODE_SENA.git"
+  },
+  "license": "ISC",
+  "author": "Juan David Gaspar Neira",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
